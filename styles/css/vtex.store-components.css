@@ -1,0 +1,17 @@
+
+
+.imageElement{     
+    width: 80%;
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    border-radius: 20px;}
+
+.searchBarContainer{ 
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
